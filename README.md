@@ -64,13 +64,15 @@ For Software:
 # Screenshots (Add at least 3)
 ![WhatsApp Image 2025-08-09 at 06 40 31_3a1139b3](https://github.com/user-attachments/assets/73549d6a-6676-490a-b2ea-1e05b159ceb4)
 
-*Add caption explaining what this shows*
+The menu that displays the different opotions and lets us swipe on them
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![WhatsApp Image 2025-08-09 at 06 40 31_2ff79b51](https://github.com/user-attachments/assets/a40788ea-28e6-469e-be2e-e41595d9977c)
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+Camera initially gets activated when we like a food
+
+![WhatsApp Image 2025-08-09 at 06 40 30_48235125](https://github.com/user-attachments/assets/0fe59478-4083-40e5-97b7-aa0badc5c70a)
+
+Camera reacts to our mouth movement to make food disappear
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
